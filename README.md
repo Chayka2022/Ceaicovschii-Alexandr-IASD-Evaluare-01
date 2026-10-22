@@ -1,6 +1,6 @@
 # Evaluare 01: Învățarea supervizată
 
-Решение контрольной работы №1 по дисциплине IASD на тему «Обучение с учителем» (supervised learning).
+Решение аттестации №1 по дисциплине IASD на тему «Обучение с учителем» (supervised learning).
 
 Выполнил: Alexandr Ceaicovschii
 
